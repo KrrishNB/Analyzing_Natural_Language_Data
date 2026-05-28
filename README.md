@@ -6,6 +6,7 @@ which is a grouped bar chart(The_Hedge_Type_Dist.png) which compares Academic vs
 3) The_Hedge_Type_Dist.png , Figure 1 is a grouped bar chart output created from the code, which shows the distribution.
 
 Citations:
+
 “English-Corpora: COCA.” English-Corpora.Org, 2026, https://www.english-corpora.org/coca/. Accessed 25 May 2026.
 
 HYLAND, KEN. “Boosting, Hedging and the Negotiation of Academic Knowledge.” Text - Interdisciplinary Journal for the Study of Discourse, vol. 18, no. 3, 1998, 10.1515/text.1.1998.18.3.349.
